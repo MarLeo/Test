@@ -1,6 +1,0 @@
-/Users/martin/RiderProjects/Test/Test/bin/Debug/Test.exe
-/Users/martin/RiderProjects/Test/Test/bin/Debug/Test.pdb
-/Users/martin/RiderProjects/Test/Test/obj/Debug/Test.csprojResolveAssemblyReference.cache
-/Users/martin/RiderProjects/Test/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
-/Users/martin/RiderProjects/Test/Test/obj/Debug/Test.exe
-/Users/martin/RiderProjects/Test/Test/obj/Debug/Test.pdb
